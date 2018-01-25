@@ -3,6 +3,7 @@
 *.swo
 *.tmp
 
+*.meta
 *.sln
 *.userprefs
 
