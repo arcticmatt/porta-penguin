@@ -1,0 +1,15 @@
+*.swp
+*.swn
+*.swo
+*.tmp
+
+*.sln
+*.userprefs
+
+project/Assembly-CSharp.csproj
+project/Library
+project/ProjectSettings
+project/UnityPackageManager
+project/obj
+project/Library
+project/etc
